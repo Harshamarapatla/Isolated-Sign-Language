@@ -5,3 +5,7 @@ Around 90% of which are born to hearing parents many of which may not know Ameri
 <h4>Learning sign language is challenging.</h4>
 
 Learning American Sign Language is as difficult for English speakers as learning Japanese. (jstor.org) It takes time and resources, which many parents don't have. They want to learn sign language, but it's hard when they are working long hours just to make ends meet. And even if they find the time and money for classes, the classes are often far away.
+
+This problem statement is taken from <a href="https://www.kaggle.com/competitions/asl-signs">GOOGLE ISOLATED SIGN LANGUAGE</a> 
+
+<a href='https://www.kaggle.com/competitions/asl-signs/data'>Dataset</a>
